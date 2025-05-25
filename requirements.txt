@@ -1,0 +1,5 @@
+flask==3.1.1
+pillow==10.3.0
+exifread==2.3.2
+PyPDF2==3.0.0
+gunicorn==21.2.0  # <-- Garanta que está listado!
